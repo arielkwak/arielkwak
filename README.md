@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Ariel (I also go by Yejun)
 - 👀 I’m interested in product management & software engineering
-- 🌱 I’m currently in the Bachelor's program for Information Systems and minoring in Human Computer Interaction at Carnegie Mellon University (expecting graduation 2024).
-- 👩🏻‍💻 I'm also pursuing a Master's in Information Systems Management from Heinz College at Carnegie Mellon University (expecting graduation 2025). 
-- 💞️ I’m looking to collaborate on development & design projects 
+- 🌱 I graduated from the Bachelor's program for Information Systems and minored in Human-Computer Interaction at Carnegie Mellon University.
+- 👩🏻‍💻 I'm currently pursuing a Master's in Information Systems Management from Heinz College at Carnegie Mellon University (expecting graduation 2025). 
 - 📫 How to reach me anniekwak123@gmail.com
 
 <!---
