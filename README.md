@@ -64,6 +64,20 @@ const ariel = {
 };
 ```
 
+| <a href="https://github.com/arielkwak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arielkwak&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ariel's github stats" /></a> | <a href="https://github.com/arielkwak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielkwak&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<h3 align="left">Top Repositories</h3>
+
+<a href="https://github.com/arielkwak/api-cli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arielkwak&repo=api-cli&theme=buefy" />
+</a>
+<a href="https://github.com/arielkwak/67-443-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arielkwak&repo=67-443-Project&theme=buefy" />
+</a>
+
+</br></br>
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, connect with me on LinkedIn!</b> :)</em>
 
 <!---
