@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Ariel (I also go by Yejun)
-- 👀 I’m interested in product management & software engineering
-- 🌱 I graduated from Carnegie Mellon University with a Bachelor's Degree in Information Systems and a minor in Human-Computer Interaction.
-- 👩🏻‍💻 I'm currently pursuing a Master's in Information Systems Management from Heinz College at Carnegie Mellon University (expecting graduation 2025). 
-- 📫 How to reach me anniekwak123@gmail.com
-
+<h1 align="center">Hi 👋, I'm Ariel</h1><img src="https://giphy.com/gifs/cinnamoroll-cinnamonroll-drawbymels-QUWkevP5G8qEWOpOag" width="50">
+<h3 align="center">An enthusiast for frontend development and fullstack development</h3>
 <!---
 arielkwak/arielkwak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
