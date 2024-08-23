@@ -5,9 +5,11 @@
 </br>🎓Bachelors in Information Systems with a minor in Human-Computer Interaction at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>
 </br>Tartan Pride! <img src="https://media.giphy.com/media/CvsJUhORZxDilAD4jj/giphy.gif" width="30">
 </p> 
+
 [![Linkedin: arielkwak](https://img.shields.io/badge/-arielkwak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yejun-ariel-kwak/)](https://www.linkedin.com/in/yejun-ariel-kwak/)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
 [![GitHub ArielKwak](https://img.shields.io/github/followers/arielkwak?label=follow&style=social)](https://github.com/arielkwak)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.yejunkwak.com/)](https://www.yejunkwak.com/)
+
 <!---
 arielkwak/arielkwak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
