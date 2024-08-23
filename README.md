@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ariel <iframe src="https://giphy.com/embed/QUWkevP5G8qEWOpOag" width="50" height="50" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></h1>
+<h1 align="center">Hi, I'm Ariel<img src="https://giphy.com/embed/QUWkevP5G8qEWOpOag" width="50"></h1>
 <h3 align="center">An enthusiast for frontend development and fullstack development</h3>
 <!---
 arielkwak/arielkwak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
