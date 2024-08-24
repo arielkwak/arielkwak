@@ -48,7 +48,7 @@
 const ariel = {
     pronouns: "She" | "Her",
     code: ["Java", "JavaScript", "Ruby", "Vue.js", "Swift", "React", "Git", "HTML/CSS", "Python", "Typescript"],
-    product-management: ["Jira", "Confluence"],
+    productManagement: ["Jira", "Confluence"],
     design: ["Figma", "Adobe CC"],
     askMeAbout: ["web dev", "tech", "app dev", "movies"],
     technologies: {
