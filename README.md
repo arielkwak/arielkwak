@@ -59,21 +59,21 @@ const ariel = {
         databases: ["mongo", "MySql", "sqlite", "PostgresSQL", "Oracle 11g & SQL Developer"],
         other:["RESTful API", "Agile Methodologies", "Product Life-Cycle Management", "Wireframing", "User Research", "A/B Testing"]
     },
-    career interests: "I'm currently focused on both frontend and fullstack but my skills expands to database to backend development. I also want to explore product management in the future!",
+    career interests: "I'm currently focused on both frontend and full-stack but my skills expand from database to backend development. I also want to explore product management in the future!",
     funFact: "I love art and was once an art student!"
 };
 ```
 
-| <a href="https://github.com/arielkwak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arielkwak&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ariel's github stats" /></a> | <a href="https://github.com/arielkwak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielkwak&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/arielkwak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arielkwak&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="Ariel's github stats" /></a> | <a href="https://github.com/arielkwak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielkwak&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <h3 align="left">Top Repositories</h3>
 
 <a href="https://github.com/arielkwak/api-cli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arielkwak&repo=api-cli&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arielkwak&repo=api-cli&theme=tokyonight" />
 </a>
 <a href="https://github.com/arielkwak/67-443-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arielkwak&repo=67-443-Project&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arielkwak&repo=67-443-Project&theme=tokyonight" />
 </a>
 
 </br></br>
