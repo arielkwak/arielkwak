@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ariel! <img src="https://media.giphy.com/media/QUWkevP5G8qEWOpOag/giphy.gif" width="30" height="30" /></h1>
-<h3 align="center">An enthusiast for frontend and fullstack development</h3>
+<h3 align="center">An enthusiast for frontend and fullstack development & product management</h3>
 
 <div align="center"> 
   
@@ -59,7 +59,7 @@ const ariel = {
         databases: ["mongo", "MySql", "sqlite", "PostgresSQL", "Oracle 11g & SQL Developer"],
         other:["RESTful API", "Agile Methodologies", "Product Life-Cycle Management", "Wireframing", "User Research", "A/B Testing"]
     },
-    career interests: "I'm currently focused on both frontend and full-stack but my skills expand from database to backend development. I also want to explore product management in the future!",
+    careerInterests: "I'm currently focused on both frontend and full-stack but my skills expand from database to backend development. I also want to explore product management in the future!",
     funFact: "I love art and was once an art student!"
 };
 ```
