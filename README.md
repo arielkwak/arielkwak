@@ -10,8 +10,8 @@
 </div>
 
 <img align='right' src="https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif" width="350">
-<p>👩🏻‍🎓 <em>Master of Information Systems Management Candidate at <a href="https://www.cmu.edu/">Carnegie Mellon University</a></em>
-</br>🎓 <em>Bachelors in Information Systems with a minor in Human-Computer Interaction at <a href="https://www.cmu.edu/">Carnegie Mellon University</a></em>
+<p>👩🏻‍🎓 <em>Master of Information Systems Management Candidate @ <a href="https://www.cmu.edu/">Carnegie Mellon University</a></em>
+</br>🎓 <em>Bachelors in Information Systems with a minor in Human-Computer Interaction @ <a href="https://www.cmu.edu/">Carnegie Mellon University</a></em>
 </br></br><img src="https://media.giphy.com/media/CvsJUhORZxDilAD4jj/giphy.gif" width="30"> <b>Tartan Pride! (ifykyk)</b>
 </p> 
 
