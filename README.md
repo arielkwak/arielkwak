@@ -56,7 +56,7 @@ const ariel = {
             native: ["Android Development"],
             iOS: ["Swift"]
         },
-        databases: ["mongo", "MySql", "sqlite", "PostgresSQL", "Oracle 11g & SQL Developer"],
+        databases: ["mongo", "MySql", "sqlite", "PostgreSQL", "Oracle 11g & SQL Developer"],
         other:["RESTful API", "Agile Methodologies", "Product Life-Cycle Management", "Wireframing", "User Research", "A/B Testing"]
     },
     careerInterests: "I'm currently focused on both frontend and full-stack but my skills expand from database to backend development. I also want to explore product management in the future!",
