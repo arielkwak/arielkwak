@@ -72,8 +72,8 @@ const ariel = {
 <a href="https://github.com/arielkwak/api-cli">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arielkwak&repo=api-cli&theme=tokyonight" />
 </a>
-<a href="https://github.com/arielkwak/67-443-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arielkwak&repo=67-443-Project&theme=tokyonight" />
+<a href="https://github.com/arielkwak/Chordable">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arielkwak&repo=Chordable&theme=tokyonight" />
 </a>
 
 </br></br>
